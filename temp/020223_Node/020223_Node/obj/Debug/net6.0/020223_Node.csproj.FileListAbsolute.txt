@@ -1,0 +1,15 @@
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\bin\Debug\net6.0\020223_Node.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\bin\Debug\net6.0\020223_Node.deps.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\bin\Debug\net6.0\020223_Node.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\bin\Debug\net6.0\020223_Node.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\bin\Debug\net6.0\020223_Node.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\020223_Node.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\020223_Node.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\020223_Node.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\020223_Node.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\020223_Node.csproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\020223_Node.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\refint\020223_Node.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\020223_Node.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\020223_Node.genruntimeconfig.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_Node\020223_Node\obj\Debug\net6.0\ref\020223_Node.dll
