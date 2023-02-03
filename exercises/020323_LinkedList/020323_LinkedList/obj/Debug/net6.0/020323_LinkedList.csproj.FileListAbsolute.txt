@@ -1,0 +1,15 @@
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\bin\Debug\net6.0\020323_LinkedList.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\bin\Debug\net6.0\020323_LinkedList.deps.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\bin\Debug\net6.0\020323_LinkedList.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\bin\Debug\net6.0\020323_LinkedList.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\bin\Debug\net6.0\020323_LinkedList.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\020323_LinkedList.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\020323_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\020323_LinkedList.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\020323_LinkedList.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\020323_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\020323_LinkedList.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\refint\020323_LinkedList.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\020323_LinkedList.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\020323_LinkedList.genruntimeconfig.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020323_LinkedList\020323_LinkedList\obj\Debug\net6.0\ref\020323_LinkedList.dll

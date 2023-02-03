@@ -1,0 +1,15 @@
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\bin\Debug\net6.0\020223_LinkedList2.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\bin\Debug\net6.0\020223_LinkedList2.deps.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\bin\Debug\net6.0\020223_LinkedList2.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\bin\Debug\net6.0\020223_LinkedList2.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\bin\Debug\net6.0\020223_LinkedList2.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\020223_LinkedList2.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\020223_LinkedList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\020223_LinkedList2.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\020223_LinkedList2.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\020223_LinkedList2.csproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\020223_LinkedList2.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\refint\020223_LinkedList2.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\020223_LinkedList2.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\020223_LinkedList2.genruntimeconfig.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020223_LinkedList2\020223_LinkedList2\obj\Debug\net6.0\ref\020223_LinkedList2.dll
