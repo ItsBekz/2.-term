@@ -1,0 +1,15 @@
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\bin\Debug\net6.0\020223_HowToTrain.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\bin\Debug\net6.0\020223_HowToTrain.deps.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\bin\Debug\net6.0\020223_HowToTrain.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\bin\Debug\net6.0\020223_HowToTrain.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\bin\Debug\net6.0\020223_HowToTrain.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\020223_HowToTrain.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\020223_HowToTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\020223_HowToTrain.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\020223_HowToTrain.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\020223_HowToTrain.csproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\020223_HowToTrain.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\refint\020223_HowToTrain.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\020223_HowToTrain.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\020223_HowToTrain.genruntimeconfig.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020223_HowToTrain\020223_HowToTrain\obj\Debug\net6.0\ref\020223_HowToTrain.dll
