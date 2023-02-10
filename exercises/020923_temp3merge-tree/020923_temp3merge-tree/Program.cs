@@ -18,7 +18,8 @@ namespace _020923_temp3merge_tree
             tree.root.left.right = new Node() { value = 7 };
             tree.root.right.right = new Node() { value = 20 };
             tree.root.right.left = new Node() { value = 12 };
-            tree.printTree();
+            tree.printTree2();
+            tree.Search(2);
         }
     }
 
@@ -32,18 +33,55 @@ namespace _020923_temp3merge_tree
     public class Tree
     {
         public Node root;
+        public int level = 1;
 
         public void printTree()
         {
-            Stack stack = new Stack();
-            stack.Push(root);
-            object o = stack.Pop();
-            while(o != null)
+            Queue<Node> queue = new Queue<Node>();
+            queue.Enqueue(root);
+            while (queue.Count() > 0)
             {
-                Node n = (Node)o;
+                Node n = queue.Dequeue();
+                if (n.left != null)
+                    queue.Enqueue(n.left);
+                if (n.right != null)
+                    queue.Enqueue(n.right);
                 Console.WriteLine(n.value);
-                o = stack.Pop();
             }
+        }
+
+        public void printTree2()
+        {
+            Stack<Node> stackPrimary = new Stack<Node>();
+            Stack<Node> stackSecond = new Stack<Node>();
+            stackPrimary.Push(root);
+
+            while (stackPrimary.Count > 0)
+            {
+                Console.WriteLine("Level " + level);
+                while (stackPrimary.Count > 0)
+                {
+                    Node n = stackPrimary.Pop();
+                    Console.WriteLine(n.value);
+                    if (n.left != null)
+                        stackSecond.Push(n.left);
+                    if (n.right != null)
+                        stackSecond.Push(n.right);
+                }
+                level++;
+                stackPrimary = stackSecond;
+                stackSecond = new Stack<Node>();
+            }
+        }
+
+        public bool Search(int i)
+        {
+            Node n = new Node();
+            if(i == n.value)
+            {
+                
+            }
+            return 
         }
     }
 }

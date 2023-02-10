@@ -1,0 +1,15 @@
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\bin\Debug\net6.0\021023_Recursive.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\bin\Debug\net6.0\021023_Recursive.deps.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\bin\Debug\net6.0\021023_Recursive.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\bin\Debug\net6.0\021023_Recursive.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\bin\Debug\net6.0\021023_Recursive.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\021023_Recursive.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\021023_Recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\021023_Recursive.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\021023_Recursive.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\021023_Recursive.csproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\021023_Recursive.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\refint\021023_Recursive.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\021023_Recursive.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\021023_Recursive.genruntimeconfig.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\021023_Recursive\021023_Recursive\obj\Debug\net6.0\ref\021023_Recursive.dll

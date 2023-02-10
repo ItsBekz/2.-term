@@ -6,9 +6,25 @@ namespace _020923_BinaryTreeSearch
         Node root = null;
         public void Insert(int value)
         {
-
+            if(root == null)
+            {
+                root.value = value;
+            }
+            else
+            {
+                if(value < root.value)
+                {
+                    while(root.left.left.value == null)
+                    {
+                        if (value < root.left.value)
+                        {
+                            root.left.value = value;
+                        }
+                    }
+                }
+            }
         }
-
+        
     }
     public class Node
     {
