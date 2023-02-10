@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _020623_temp
-build_property.ProjectDir = C:\Users\rebec\Documents\GitHub\2.-term\temp\020623_temp\020623_temp\
+build_property.RootNamespace = Bubblesort
+build_property.ProjectDir = C:\Users\rebec\Documents\GitHub\2.-term\exercises\Bubblesort\Bubblesort\

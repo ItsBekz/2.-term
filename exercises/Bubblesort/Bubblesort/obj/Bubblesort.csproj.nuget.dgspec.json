@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\temp\\020623_temp\\020623_temp\\020623_temp.csproj": {}
+    "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\exercises\\Bubblesort\\Bubblesort\\Bubblesort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\temp\\020623_temp\\020623_temp\\020623_temp.csproj": {
+    "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\exercises\\Bubblesort\\Bubblesort\\Bubblesort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\temp\\020623_temp\\020623_temp\\020623_temp.csproj",
-        "projectName": "020623_temp",
-        "projectPath": "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\temp\\020623_temp\\020623_temp\\020623_temp.csproj",
+        "projectUniqueName": "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\exercises\\Bubblesort\\Bubblesort\\Bubblesort.csproj",
+        "projectName": "Bubblesort",
+        "projectPath": "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\exercises\\Bubblesort\\Bubblesort\\Bubblesort.csproj",
         "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\temp\\020623_temp\\020623_temp\\obj\\",
+        "outputPath": "C:\\Users\\rebec\\Documents\\GitHub\\2.-term\\exercises\\Bubblesort\\Bubblesort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
