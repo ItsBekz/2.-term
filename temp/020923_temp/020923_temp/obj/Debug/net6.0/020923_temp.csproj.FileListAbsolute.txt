@@ -1,0 +1,15 @@
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\bin\Debug\net6.0\020923_temp.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\bin\Debug\net6.0\020923_temp.deps.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\bin\Debug\net6.0\020923_temp.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\bin\Debug\net6.0\020923_temp.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\bin\Debug\net6.0\020923_temp.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\020923_temp.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\020923_temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\020923_temp.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\020923_temp.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\020923_temp.csproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\020923_temp.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\refint\020923_temp.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\020923_temp.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\020923_temp.genruntimeconfig.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\temp\020923_temp\020923_temp\obj\Debug\net6.0\ref\020923_temp.dll
