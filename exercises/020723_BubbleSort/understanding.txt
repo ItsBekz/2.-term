@@ -1,0 +1,19 @@
+1 2 32 4 91 2 (6)
+0 1 2  3 4  5
+
+int i = 0; i < 6 - 1; i++;
+int i = 0; i < 5; i++;
+
+int j = 0; j < 6 - i - 1; j++;
+int j = 0; j < 6 - 1 - 1; j++;
+int j = 0; j < 5; j++;
+
+arr[0] > arr[1]
+arr[1] > arr[2]
+arr[2] > arr[3]
+arr[3] > arr[4]
+arr[4] > arr[5]
+
+
+
+
