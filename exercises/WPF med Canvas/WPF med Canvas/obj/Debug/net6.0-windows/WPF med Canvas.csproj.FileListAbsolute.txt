@@ -1,0 +1,21 @@
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas_MarkupCompile.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas_MarkupCompile.lref
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\bin\Debug\net6.0-windows\WPF med Canvas.exe
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\bin\Debug\net6.0-windows\WPF med Canvas.deps.json
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\bin\Debug\net6.0-windows\WPF med Canvas.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\bin\Debug\net6.0-windows\WPF med Canvas.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\bin\Debug\net6.0-windows\WPF med Canvas.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas.g.resources
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\refint\WPF med Canvas.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\WPF med Canvas.genruntimeconfig.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WPF med Canvas\WPF med Canvas\obj\Debug\net6.0-windows\ref\WPF med Canvas.dll

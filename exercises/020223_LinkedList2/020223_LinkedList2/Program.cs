@@ -133,8 +133,6 @@ namespace _020223_LinkedList2
         {
             public Node next;
             public string value;
-
-
         }
     }
 
