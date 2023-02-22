@@ -1,0 +1,15 @@
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\bin\Debug\net6.0\022223_Generics.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\bin\Debug\net6.0\022223_Generics.deps.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\bin\Debug\net6.0\022223_Generics.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\bin\Debug\net6.0\022223_Generics.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\bin\Debug\net6.0\022223_Generics.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\022223_Generics.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\022223_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\022223_Generics.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\022223_Generics.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\022223_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\022223_Generics.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\refint\022223_Generics.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\022223_Generics.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\022223_Generics.genruntimeconfig.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\022223_Generics\022223_Generics\obj\Debug\net6.0\ref\022223_Generics.dll

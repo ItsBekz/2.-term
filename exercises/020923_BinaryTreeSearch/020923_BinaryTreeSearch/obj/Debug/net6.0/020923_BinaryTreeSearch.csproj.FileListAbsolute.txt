@@ -1,0 +1,5 @@
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020923_BinaryTreeSearch\020923_BinaryTreeSearch\obj\Debug\net6.0\020923_BinaryTreeSearch.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020923_BinaryTreeSearch\020923_BinaryTreeSearch\obj\Debug\net6.0\020923_BinaryTreeSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020923_BinaryTreeSearch\020923_BinaryTreeSearch\obj\Debug\net6.0\020923_BinaryTreeSearch.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020923_BinaryTreeSearch\020923_BinaryTreeSearch\obj\Debug\net6.0\020923_BinaryTreeSearch.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\020923_BinaryTreeSearch\020923_BinaryTreeSearch\obj\Debug\net6.0\020923_BinaryTreeSearch.csproj.CoreCompileInputs.cache

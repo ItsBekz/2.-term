@@ -37,24 +37,6 @@ namespace WPF_med_Canvas
             tegnText(myTextBox.Text, xpos + 5, ypos + 5);
             tegnPil(xpos + width, ypos + height / 2, xpos + 100, ypos + height / 2);
 
-            Node n = new Node();
-            
-        }
-        
-        
-        
-        public class Node
-        {
-            public Node next;
-            double xpos = 20;
-            double ypos = 20;
-            double width = 50;
-            double height = 50;
-            public Node()
-            {
-                
-            }
-            
         }
 
         private void tegnFirkant(double xStart, double yStart, double width, double height)
