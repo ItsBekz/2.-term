@@ -30,7 +30,6 @@ namespace _022423_GraphWPF
         {
             InitializeComponent();
             clearCanvas();
-
         }
         private void clearCanvas()
         {
@@ -57,11 +56,11 @@ namespace _022423_GraphWPF
             line.Y1 = yStart;
             line.X2 = xEnd;
             line.Y2 = yEnd;
-
+            
             double angle = Math.Atan2(line.Y2 - line.Y1, line.X2 - line.X1);
             double arrowLength = 10;
             double arrowAngle = Math.PI / 6; // 30 degrees in radians
-
+            
             Polygon arrowhead = new Polygon();
             arrowhead.Stroke = Brushes.Black;
             arrowhead.Fill = Brushes.Black;
@@ -73,7 +72,6 @@ namespace _022423_GraphWPF
             arrowhead.Points.Add(new Point(
                 line.X2 - arrowLength * Math.Cos(angle - arrowAngle),
                 line.Y2 - arrowLength * Math.Sin(angle - arrowAngle)));
-
             Canvas.SetZIndex(arrowhead, 1); // Make sure arrowhead appears on top of line
             myCanvas.Children.Add(line);
             myCanvas.Children.Add(arrowhead);
@@ -88,14 +86,10 @@ namespace _022423_GraphWPF
             Canvas.SetTop(textBlock, yStart);
             myCanvas.Children.Add(textBlock);
         }
-
         private void myCanvas_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
             clearCanvas();
             Point p = e.GetPosition((Canvas)sender);
-
-            
-
             if (vrtxName.Text == "")
             {
                 //MessageBox.Show("Vertex name is empty");
@@ -104,7 +98,7 @@ namespace _022423_GraphWPF
             {
                 list.Add(new Vertex(vrtxName.Text, p.X, p.Y, width, height));
             }
-
+            
             vrtxName.Text = "";
             foreach (Vertex vrtx in list)
             {
@@ -113,5 +107,4 @@ namespace _022423_GraphWPF
             }
         }
     }
-
 }
