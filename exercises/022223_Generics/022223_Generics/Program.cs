@@ -10,6 +10,8 @@ namespace _022223_Generics
             myList.Add(1);
             myList.Add(2);
             myList.Add(3);
+            myList.Add();
+            
 
             myList.printAll();
             Console.WriteLine("--------ForEach--------------");
@@ -17,7 +19,7 @@ namespace _022223_Generics
 
             foreach (Node item in myList)
             {
-                Console.WriteLine(item.number);
+                Console.WriteLine(item.value);
             }
         }
     }
@@ -28,10 +30,10 @@ namespace _022223_Generics
         Node current;
 
         public Node start;
-        public void Add(int num)
+        public void Add(int val)
         {
             Node n = new Node();
-            n.number = num;
+            n.value = val;
             n.next = start;
             start = n;
         }
@@ -69,15 +71,24 @@ namespace _022223_Generics
         }
     }
 
-        class Node
-        {   
+    class House
+    {
+        string name;
+        public House(string name)
+        {
+            this.name = name;
+        }
+    }
+
+    class Node
+    {   
         public Node next;
-        public int number;
+        public int value;
         public void print()
         {
             if (next != null)
                 next.print();
-            Console.WriteLine(number);
+            Console.WriteLine(value);
         }
     }
 
