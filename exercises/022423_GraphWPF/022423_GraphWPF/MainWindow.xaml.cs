@@ -26,7 +26,7 @@ namespace _022423_GraphWPF
         double width = 50;
         double height = 50;
         List<Vertex> list = new List<Vertex>();
-        public static Object target1, target2;
+        public static int target1, target2;
 
         public MainWindow()
         {
@@ -98,23 +98,23 @@ namespace _022423_GraphWPF
         private void myCanvas_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
             clearCanvas();
-            if (target1 != null && target2 != null)
+            Point p = Mouse.GetPosition(myCanvas);
+            
+            if(target1 != -1 && target2 != -1)
             {
-                target1 = null;
-                target2 = null;
+                target1 = -1;
+                target2 = -2;
             }
-            try 
-            {
-                SelectVertex();
-                vrtxName.Text = "";
-                Print();
-            }
-            catch 
-            {
-                MessageBox.Show("Type a letter instead of a number.");
-            }
+
+            SelectVertex();
+            vrtxName.Text = "";
+            Print();
+
             
         }
+
+
+        // turns the 3rd selected red but not the 2 selected
 
         private void SelectVertex()
         {
@@ -126,32 +126,31 @@ namespace _022423_GraphWPF
                     int index = list.IndexOf(vrtx);
                     if ((p.X > vrtx.xpos && p.X < vrtx.xpos + vrtx.width) && (p.Y > vrtx.ypos && p.Y < vrtx.ypos + vrtx.height))
                     {
-                        if (target1 == null)
+                        if (target1 == -1 && target2 == -1)
                         {
-                            target1 = Vertex.rectangles[index];
-                            Vertex.rectangles[index].Stroke = new SolidColorBrush(Colors.Red);
-                            Vertex.textBlocks[index].Foreground = new SolidColorBrush(Colors.Red);
+                            target1 = list.IndexOf(vrtx);
+                            Vertex.rectangles[target1].Stroke = new SolidColorBrush(Colors.Red);
+                            //Vertex.textBlocks[index].Foreground = new SolidColorBrush(Colors.Red);
                         }
                         else
                         {
-                            target2 = Vertex.rectangles[index];
-                            Vertex.rectangles[index].Stroke = new SolidColorBrush(Colors.Red);
-                            Vertex.textBlocks[index].Foreground = new SolidColorBrush(Colors.Red);
+                            target2 = list.IndexOf(vrtx);
+                            Vertex.rectangles[target2].Stroke = new SolidColorBrush(Colors.Red);
+                            //Vertex.textBlocks[index].Foreground = new SolidColorBrush(Colors.Red);
                         }
+                        //Vertex.rectangles[list.IndexOf(target2)].Stroke = new SolidColorBrush(Colors.Red);
                     }
                     else
                     {
-                        Vertex.rectangles[index].Stroke = new SolidColorBrush(Colors.Black);
-                        Vertex.textBlocks[index].Foreground = new SolidColorBrush(Colors.Black);
-                    }
-
-                    if (edgeWeight.Text != "")
-                    {
-
+                        // turn the rectangle black if it is not one of the 2 targets
+                        if (index != target1 && index != target2)
+                        {
+                            Vertex.rectangles[index].Stroke = new SolidColorBrush(Colors.Black);
+                        }
                     }
                 }
             }
-            else
+            else if(vrtxName.Text != "")
             {
                 CreateVertex();
             }
@@ -160,6 +159,7 @@ namespace _022423_GraphWPF
 
         private void CreateVertex()
         {
+            Point p = Mouse.GetPosition(myCanvas);
             Vertex vrtx = new Vertex(vrtxName.Text, p.X, p.Y, width, height);
             list.Add(vrtx);
         }
@@ -172,5 +172,6 @@ namespace _022423_GraphWPF
                 myCanvas.Children.Add(Vertex.textBlocks[list.IndexOf(vrtx)]);
             }
         }
+
     }
 }

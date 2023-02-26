@@ -20,6 +20,7 @@ namespace _022423_GraphWPF
         public double ypos;
         public double width;
         public double height;
+        public Vertex next;
         public Vertex(string name, double xpos, double ypos, double width, double height)
         {
             this.name = name;
@@ -52,6 +53,7 @@ namespace _022423_GraphWPF
             rectangles.Add(rect1);
         }
 
+        
         public void CreateText(string txt, double xpos, double ypos)
         {
             TextBlock tb = new TextBlock();
@@ -62,5 +64,6 @@ namespace _022423_GraphWPF
             Canvas.SetTop(tb, ypos + 5);
             textBlocks.Add(tb);
         }
+        
     }
 }
