@@ -10,7 +10,10 @@
         <Canvas x:Name="myCanvas" Margin="96,81,77,30"
                 MouseLeftButtonDown="myCanvas_MouseLeftButtonDown"
                 Background="White"/>
-        <TextBox x:Name="vrtxName" HorizontalAlignment="Left" Margin="96,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="vrtxName" HorizontalAlignment="Left" Margin="145,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="edgeWeight" HorizontalAlignment="Left" Margin="528,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Vertex&#xD;&#xA;" HorizontalAlignment="Left" Margin="95,34,0,0" VerticalAlignment="Top" Width="45" Height="30"/>
+        <Label Content="Edges" HorizontalAlignment="Left" Margin="468,32,0,0" VerticalAlignment="Top" Width="55" Height="30"/>
 
     </Grid>
 </Window>
