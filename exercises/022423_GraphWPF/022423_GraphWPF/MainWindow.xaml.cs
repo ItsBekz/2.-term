@@ -51,7 +51,7 @@ namespace _022423_GraphWPF
             rect1.Height = height;
             Canvas.SetLeft(rect1, xStart);
             Canvas.SetTop(rect1, yStart);
-            myCanvas.Children.Add(rect1);
+            //myCanvas.Children.Add(rect1);
             return rect1;
             //rectangles.Add(rect1);
         }
@@ -82,12 +82,14 @@ namespace _022423_GraphWPF
                 line.X2 - arrowLength * Math.Cos(angle - arrowAngle),
                 line.Y2 - arrowLength * Math.Sin(angle - arrowAngle)));
             Canvas.SetZIndex(arrowhead, 1); // Make sure arrowhead appears on top of line
-            myCanvas.Children.Add(line);
-            myCanvas.Children.Add(arrowhead);
+            Arrow a = new Arrow();
+            a.line = line;
+            a.arrowHead = arrowhead;
+            graph.arrows.Add(a);
         }
         
         
-        private void DrawText(String txt, double xStart, double yStart)
+        private TextBlock DrawText(String txt, double xStart, double yStart)
         {
             TextBlock textBlock = new TextBlock();
             textBlock.Text = txt;
@@ -96,6 +98,7 @@ namespace _022423_GraphWPF
             Canvas.SetLeft(textBlock, xStart);
             Canvas.SetTop(textBlock, yStart);
             //myCanvas.Children.Add(textBlock);
+            return textBlock;
         }
 
         private void myCanvas_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
@@ -122,10 +125,17 @@ namespace _022423_GraphWPF
                             target1.rect.Stroke = new SolidColorBrush(Colors.Red);
                         }
                         else
-                        {
+                        { 
                             target2 = vrtx;
                             target2.rect.Stroke = new SolidColorBrush(Colors.Red);
                         }
+                    }
+                    else
+                    {
+                        if (target1 != vrtx && target2 != vrtx)
+                        {
+                            vrtx.rect.Stroke = new SolidColorBrush(Colors.Black);
+                        } 
                     }
                 }
             }
@@ -136,17 +146,26 @@ namespace _022423_GraphWPF
                 v.ypos = p.Y;
                 v.name = vrtxName.Text;
                 v.rect = DrawRectangle(v.xpos, v.ypos, width, height);
+                v.text = DrawText(v.name, v.xpos + 5, v.ypos + 5);
 
                 graph.list.Add(v);
             }
-
+            if(target1 != null && target2 != null)
+            {
+                CreateArrow(target1.xpos, target1.ypos, target2.xpos, target2.ypos);
+            }
             vrtxName.Text = "";
 
 
             foreach (Vertex vrtx in graph.list)
             {
                 myCanvas.Children.Add(vrtx.rect);
-                DrawText(vrtx.name, vrtx.xpos + 5, vrtx.ypos + 5);
+                myCanvas.Children.Add(vrtx.text);
+            }
+            foreach(Arrow a in graph.arrows)
+            {
+                myCanvas.Children.Add(a.line);
+                myCanvas.Children.Add(a.arrowHead);
             }
         }
         

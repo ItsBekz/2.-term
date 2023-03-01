@@ -15,8 +15,9 @@ namespace _022423_GraphWPF
         public string name;
         public double xpos;
         public double ypos;
-        public Rectangle rect;
         public Vertex next;
+        public Rectangle rect;
+        public TextBlock text;
         public Vertex()
         { 
         }
