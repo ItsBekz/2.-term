@@ -1,0 +1,15 @@
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\BikeShop.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\BikeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\BikeShop.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\BikeShop.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\BikeShop.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\bin\Debug\net6.0\BikeShop.exe
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\bin\Debug\net6.0\BikeShop.deps.json
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\bin\Debug\net6.0\BikeShop.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\bin\Debug\net6.0\BikeShop.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\bin\Debug\net6.0\BikeShop.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\BikeShop.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\refint\BikeShop.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\BikeShop.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\BikeShop.genruntimeconfig.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\Bicycle Shop\Bicycle Shop\BIkeShop\BikeShop\obj\Debug\net6.0\ref\BikeShop.dll

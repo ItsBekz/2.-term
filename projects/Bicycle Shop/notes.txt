@@ -1,0 +1,3 @@
+Change Bike to Bikeshop
+
+Add a basic Bike Class

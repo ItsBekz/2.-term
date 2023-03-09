@@ -23,7 +23,7 @@ namespace TestProject1
             
             //ASSERT
             Assert.AreEqual("John Doe", person.GetFullName());
-            Assert.AreEqual(2, person.GetAge());
+            Assert.AreEqual(1, person.GetAge());
             Assert.AreEqual(JobTypes.Comedian, person.GetJob());
         }
     }

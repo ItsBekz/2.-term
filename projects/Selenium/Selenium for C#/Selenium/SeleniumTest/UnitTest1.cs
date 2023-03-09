@@ -9,10 +9,8 @@ namespace SeleniumTest
         public void Setup()
         {
             // browser driver
-            IWebDriver webDriver = new ChromeDriver();
 
             // navigate to url
-            webDriver.Navigate().GoToUrl("https://www.google.com");
         }
 
         [Test]
