@@ -1,0 +1,15 @@
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\UnitTestPerson.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\UnitTestPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\UnitTestPerson.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\UnitTestPerson.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\UnitTestPerson.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\bin\Debug\net6.0\UnitTestPerson.exe
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\bin\Debug\net6.0\UnitTestPerson.deps.json
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\bin\Debug\net6.0\UnitTestPerson.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\bin\Debug\net6.0\UnitTestPerson.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\bin\Debug\net6.0\UnitTestPerson.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\UnitTestPerson.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\refint\UnitTestPerson.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\UnitTestPerson.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\UnitTestPerson.genruntimeconfig.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\UnitTestPerson\UnitTestPerson\obj\Debug\net6.0\ref\UnitTestPerson.dll

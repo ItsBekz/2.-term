@@ -5,8 +5,29 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CallCenter"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="600" Width="900">
     <Grid>
-        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="47,64,245,176"/>
+        <Button x:Name="BtnIncoming" Content="Take Incoming Call" HorizontalAlignment="Left" Margin="130,128,0,0" VerticalAlignment="Top" Click="BtnIncoming_Click" Height="37" Width="130"/>
+        <ListView x:Name="IncomingCall" Margin="40,185,550,55">
+            <ListView.View>
+                <GridView x:Name="IncomingCalls">
+                    <GridViewColumn Header="Name" Width="225" DisplayMemberBinding="{Binding name}" />
+                    <GridViewColumn Header="Priority" Width="80" DisplayMemberBinding="{Binding priority}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button x:Name="BtnHangUp" Content="Hang Up" HorizontalAlignment="Left" Margin="676,128,0,0" VerticalAlignment="Top" Click="BtnHangUp_Click" Height="37" Width="72"/>
+        <ListView x:Name="HangUp" Margin="550,185,40,55">
+            <ListView.View>
+                <GridView x:Name="HungUp">
+                    <GridViewColumn Header="Name" Width="155" DisplayMemberBinding="{Binding name}" />
+                    <GridViewColumn Header="Date" Width="150" DisplayMemberBinding="{Binding date}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBlock x:Name="CurrentCall" HorizontalAlignment="Center" Margin="0,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="46" Width="180" TextAlignment="Center" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,85,0,0" TextWrapping="Wrap" Text="Current Call" VerticalAlignment="Top" Height="29" Width="180" TextAlignment="Center" FontSize="18"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,26,0,0" TextWrapping="Wrap" Text="Schnuph &amp; Verschwind" VerticalAlignment="Top" Height="50" Width="538" TextAlignment="Center" FontSize="35"/>
     </Grid>
 </Window>

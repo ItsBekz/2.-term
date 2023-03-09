@@ -1,0 +1,15 @@
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\bin\Debug\net6.0\TestToProject.exe
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\bin\Debug\net6.0\TestToProject.deps.json
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\bin\Debug\net6.0\TestToProject.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\bin\Debug\net6.0\TestToProject.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\bin\Debug\net6.0\TestToProject.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\TestToProject.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\TestToProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\TestToProject.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\TestToProject.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\TestToProject.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\TestToProject.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\refint\TestToProject.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\TestToProject.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\TestToProject.genruntimeconfig.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\TestToProject\TestToProject\obj\Debug\net6.0\ref\TestToProject.dll

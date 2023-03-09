@@ -85,7 +85,7 @@ namespace _022423_GraphWPF
             Arrow a = new Arrow();
             a.line = line;
             a.arrowHead = arrowhead;
-            graph.arrows.Add(a);
+            Edge.arrows.Add(a);
         }
         
         
@@ -112,7 +112,6 @@ namespace _022423_GraphWPF
                 target2 = null;
             }
 
-            //SelectVertex();
             if (vrtxName.Text == "")
             {
                 foreach (Vertex vrtx in graph.list)
@@ -162,7 +161,7 @@ namespace _022423_GraphWPF
                 myCanvas.Children.Add(vrtx.rect);
                 myCanvas.Children.Add(vrtx.text);
             }
-            foreach(Arrow a in graph.arrows)
+            foreach(Arrow a in Edge.arrows)
             {
                 myCanvas.Children.Add(a.line);
                 myCanvas.Children.Add(a.arrowHead);

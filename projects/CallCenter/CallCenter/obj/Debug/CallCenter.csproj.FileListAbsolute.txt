@@ -1,0 +1,16 @@
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\MainWindow.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\App.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter_MarkupCompile.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter_MarkupCompile.lref
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\MainWindow.baml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter.g.resources
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
