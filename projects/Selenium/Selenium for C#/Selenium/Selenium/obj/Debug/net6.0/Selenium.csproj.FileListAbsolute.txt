@@ -1,0 +1,72 @@
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\Selenium.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\Selenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\Selenium.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\Selenium.AssemblyInfo.cs
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\Selenium.exe
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\Selenium.deps.json
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\Selenium.runtimeconfig.json
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\Selenium.dll
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\Selenium.pdb
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\WebDriver.dll
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\Selenium.csproj.CopyComplete
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\Selenium.dll
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\refint\Selenium.dll
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\Selenium.pdb
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\Selenium.genruntimeconfig.cache
+C:\Users\danie\source\repos\Selenium\Selenium\obj\Debug\net6.0\ref\Selenium.dll
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\danie\source\repos\Selenium\Selenium\bin\Debug\net6.0\WebDriverManager.dll
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\Selenium.exe
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\Selenium.deps.json
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\Selenium.runtimeconfig.json
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\Selenium.dll
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\Selenium.pdb
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\WebDriver.dll
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\bin\Debug\net6.0\WebDriverManager.dll
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\Selenium.csproj.AssemblyReference.cache
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\Selenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\Selenium.AssemblyInfoInputs.cache
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\Selenium.AssemblyInfo.cs
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\Selenium.csproj.CopyComplete
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\Selenium.dll
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\refint\Selenium.dll
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\Selenium.pdb
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\Selenium.genruntimeconfig.cache
+C:\Users\jaha\Desktop\Selenium\Selenium\Selenium\obj\Debug\net6.0\ref\Selenium.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\Selenium.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\Selenium.deps.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\Selenium.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\Selenium.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\Selenium.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\bin\Debug\net6.0\WebDriverManager.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\Selenium.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\Selenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\Selenium.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\Selenium.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\Selenium.csproj.CopyComplete
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\Selenium.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\refint\Selenium.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\Selenium.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\Selenium.genruntimeconfig.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\projects\Selenium\Selenium for C#\Selenium\Selenium\obj\Debug\net6.0\ref\Selenium.dll
