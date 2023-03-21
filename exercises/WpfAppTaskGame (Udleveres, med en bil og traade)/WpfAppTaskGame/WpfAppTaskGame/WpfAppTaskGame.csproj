@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="car.jpg" />
+    <None Remove="images\car1.png" />
+    <None Remove="images\car2.png" />
+    <None Remove="images\car3.png" />
+    <None Remove="images\car4.png" />
+    <None Remove="images\car5.png" />
+    <None Remove="images\finishLine.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="car.jpg" />
+    <Resource Include="images\car1.png" />
+    <Resource Include="images\car2.png" />
+    <Resource Include="images\car3.png" />
+    <Resource Include="images\car4.png" />
+    <Resource Include="images\car5.png" />
+    <Resource Include="images\finishLine.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

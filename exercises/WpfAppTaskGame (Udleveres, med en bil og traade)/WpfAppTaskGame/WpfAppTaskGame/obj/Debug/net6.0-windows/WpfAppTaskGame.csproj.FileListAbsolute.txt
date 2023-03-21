@@ -1,0 +1,87 @@
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.exe
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.deps.json
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.runtimeconfig.json
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.dll
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.pdb
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.csproj.AssemblyReference.cache
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame_MarkupCompile.cache
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame_MarkupCompile.lref
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.g.resources
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.AssemblyInfoInputs.cache
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.AssemblyInfo.cs
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.csproj.CoreCompileInputs.cache
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.dll
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\refint\WpfAppTaskGame.dll
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.pdb
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.genruntimeconfig.cache
+C:\Users\jaha\source\repos\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\ref\WpfAppTaskGame.dll
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.exe
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.deps.json
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.runtimeconfig.json
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.dll
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.pdb
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.csproj.AssemblyReference.cache
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame_MarkupCompile.cache
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame_MarkupCompile.lref
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.g.resources
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.AssemblyInfoInputs.cache
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.AssemblyInfo.cs
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.csproj.CoreCompileInputs.cache
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.dll
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\refint\WpfAppTaskGame.dll
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.pdb
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.genruntimeconfig.cache
+C:\Users\jaha\Downloads\WpfAppTaskGame(Start version, en bil kører)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\ref\WpfAppTaskGame.dll
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.exe
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.deps.json
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.runtimeconfig.json
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.dll
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.pdb
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.csproj.AssemblyReference.cache
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame_MarkupCompile.cache
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame_MarkupCompile.lref
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.g.resources
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.AssemblyInfoInputs.cache
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.AssemblyInfo.cs
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.dll
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\refint\WpfAppTaskGame.dll
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.pdb
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.genruntimeconfig.cache
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\ref\WpfAppTaskGame.dll
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\Collision.dll
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\Collision.pdb
+C:\Users\rebec\Downloads\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.csproj.CopyComplete
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.exe
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.deps.json
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\bin\Debug\net6.0-windows\WpfAppTaskGame.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame_MarkupCompile.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame_MarkupCompile.lref
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.g.resources
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\refint\WpfAppTaskGame.dll
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\WpfAppTaskGame.genruntimeconfig.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\WpfAppTaskGame (Udleveres, med en bil og traade)\WpfAppTaskGame\WpfAppTaskGame\obj\Debug\net6.0-windows\ref\WpfAppTaskGame.dll

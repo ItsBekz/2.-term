@@ -55,14 +55,14 @@ namespace BikeShopCode
     }
 
         public enum ModelTypes
-    {
-        Cosmic,
-        Stallion,
-        Pegasus,
-        Unicorn,
-        Dragon,
-        Phoenix,
-        Griffin
-    }
+        {
+            Cosmic,
+            Stallion,
+            Pegasus,
+            Unicorn,
+            Dragon,
+            Phoenix,
+            Griffin
+        }
 }
 

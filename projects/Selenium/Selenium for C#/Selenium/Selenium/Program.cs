@@ -35,8 +35,8 @@ namespace Selenium // Note: actual namespace depends on the project name.
             IWebElement enterPassword = driver.FindElement(By.XPath("//*[@data-testid=\"auth0-field-password\"]"));
             enterUsername.SendKeys(username);
             enterPassword.SendKeys(password);
-            bool loginButtonPresent = driver.FindElement(By.XPath("//*[@data-testid=\"auth0-field-password\"]")).Displayed;
-            bool loginIconEnabled = driver.FindElement(By.XPath("//*[@data-testid=\"auth0-field-password\"]")).Enabled;
+            bool loginButtonPresent = driver.FindElement(By.XPath("//*[@data-testid=\"auth0-button-login\"]")).Displayed;
+            bool loginIconEnabled = driver.FindElement(By.XPath("//*[@data-testid=\"auth0-button-login\"]")).Enabled;
             if (loginButtonPresent && loginIconEnabled)
             {
                 Console.WriteLine("Login button is present and enabled");
