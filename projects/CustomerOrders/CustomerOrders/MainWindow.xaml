@@ -1,0 +1,42 @@
+﻿<Window x:Class="CustomerOrders.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CustomerOrders"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1200">
+    <Grid>
+        <DataGrid Name="CustomersTable" AutoGenerateColumns="False" CanUserAddRows="False" Margin="22,144,959,54" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="80" Binding="{Binding CustomerID}" />
+                <DataGridTextColumn Header="Navn" Width="*" Binding="{Binding Name}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid Name="OrdersTable" AutoGenerateColumns="False" CanUserAddRows="False" Margin="283,144,591,54" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="OrderID" Width="55" Binding="{Binding OrderID}" />
+                <DataGridTextColumn Header="CustomerID" Width="*" Binding="{Binding CustomerID}" />
+                <DataGridTextColumn Header="Items" Width="*" Binding="{Binding Items}" />
+                <DataGridTextColumn Header="OrderDate" Width="120" Binding="{Binding OrderDate}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Add Customer" HorizontalAlignment="Left" Margin="640,16,0,0" VerticalAlignment="Top" Click="AddCustomerCmd" Height="33" Width="87"/>
+        <Button Content="Add Order" HorizontalAlignment="Left" Margin="790,16,0,0" VerticalAlignment="Top" Click="AddOrderCmd" Height="33" Width="87"/>
+        <TextBox x:Name="CustomerName" HorizontalAlignment="Left" Margin="442,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="AmntItems" HorizontalAlignment="Left" Margin="442,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Customer Name" HorizontalAlignment="Left" Margin="338,25,0,0" VerticalAlignment="Top"/>
+        <Label Content="Amount of Items" HorizontalAlignment="Left" Margin="338,66,0,0" VerticalAlignment="Top"/>
+        <DataGrid x:Name="CheckOrder" AutoGenerateColumns="False" CanUserAddRows="False" Margin="651,144,19,54" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="35" Binding="{Binding ID}" />
+                <DataGridTextColumn Header="OrderID" Width="*" Binding="{Binding OrderID}" />
+                <DataGridTextColumn Header="CustomerID" Width="80" Binding="{Binding CustomerID}" />
+                <DataGridTextColumn Header="Name" Width="*" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Items" Width="*" Binding="{Binding Items}" />
+                <DataGridTextColumn Header="OrderDate" Width="120" Binding="{Binding OrderDate}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Show Customers Order" HorizontalAlignment="Left" Margin="686,70,0,0" VerticalAlignment="Top" Click="ShowOrder" Height="33" Width="143"/>
+    </Grid>
+</Window>

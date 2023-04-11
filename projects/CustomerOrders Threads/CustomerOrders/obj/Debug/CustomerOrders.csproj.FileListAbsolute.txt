@@ -1,0 +1,168 @@
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\CustomerOrders.exe.config
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\CustomerOrders.exe
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\CustomerOrders.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Azure.Core.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Azure.Identity.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Buffers.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Memory.Data.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Memory.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Security.Permissions.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Text.Json.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.ValueTuple.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Azure.Core.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Azure.Identity.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Buffers.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Memory.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Memory.Data.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Security.Permissions.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Text.Json.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\System.ValueTuple.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.csproj.SuggestedBindingRedirects.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\MainWindow.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\App.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders_MarkupCompile.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders_MarkupCompile.lref
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\MainWindow.baml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.g.resources
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.Properties.Resources.resources
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.csproj.GenerateResource.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.csproj.CopyComplete
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.exe
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\CustomerOrders.exe.config
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\CustomerOrders.exe
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\CustomerOrders.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Azure.Core.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Azure.Identity.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Buffers.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Memory.Data.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Memory.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Security.Permissions.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Text.Json.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.ValueTuple.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Azure.Core.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Azure.Identity.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Buffers.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Memory.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Memory.Data.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Security.Permissions.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Text.Json.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\System.ValueTuple.xml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders.csproj.SuggestedBindingRedirects.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\MainWindow.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\App.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders_MarkupCompile.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders_MarkupCompile.lref
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\MainWindow.baml
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders.g.resources
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders.Properties.Resources.resources
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders.csproj.GenerateResource.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders.csproj.CopyComplete
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders.exe
+C:\Users\rebec\Documents\GitHub\2.-term\projects\CustomerOrders Threads\CustomerOrders\obj\Debug\CustomerOrders.pdb
