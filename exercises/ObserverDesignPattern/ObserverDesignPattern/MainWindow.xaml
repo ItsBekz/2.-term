@@ -1,0 +1,16 @@
+﻿<Window x:Class="ObserverDesignPattern.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ObserverDesignPattern"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="publisher" Content="Publisher" HorizontalAlignment="Left" Margin="88,123,0,0" VerticalAlignment="Top" Height="61" Width="115"/>
+        <Button x:Name="sub1" Content="Subscriber1" HorizontalAlignment="Left" Margin="545,57,0,0" VerticalAlignment="Top" Height="82" Width="108"/>
+        <Button x:Name="sub2" Content="Subscriber2" HorizontalAlignment="Left" Margin="545,277,0,0" VerticalAlignment="Top" Height="82" Width="108"/>
+        <TextBox HorizontalAlignment="Left" Margin="88,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="115" Height="34" FontSize="20"/>
+
+    </Grid>
+</Window>

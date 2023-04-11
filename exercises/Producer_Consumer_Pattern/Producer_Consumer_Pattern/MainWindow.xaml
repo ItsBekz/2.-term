@@ -1,0 +1,16 @@
+﻿<Window x:Class="Producer_Consumer_Pattern.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Producer_Consumer_Pattern"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BtnProducer" Content="Producer" HorizontalAlignment="Left" Margin="88,155,0,0" VerticalAlignment="Top" Height="62" Width="131" Click="BtnProducer_Click"/>
+        <Button x:Name="BtnConsumer" Content="Consumer" HorizontalAlignment="Left" Margin="602,155,0,0" VerticalAlignment="Top" Height="62" Width="131" Click="BtnConsumer_Click"/>
+        <ListBox x:Name="LstQueue" Margin="312,114,312,85"/>
+        <Label Content="Queue" HorizontalAlignment="Center" Margin="0,58,0,0" VerticalAlignment="Top" FontSize="20"/>
+
+    </Grid>
+</Window>

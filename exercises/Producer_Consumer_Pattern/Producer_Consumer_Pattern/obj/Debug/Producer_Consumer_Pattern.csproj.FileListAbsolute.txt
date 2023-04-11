@@ -1,0 +1,16 @@
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\bin\Debug\Producer_Consumer_Pattern.exe.config
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\bin\Debug\Producer_Consumer_Pattern.exe
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\bin\Debug\Producer_Consumer_Pattern.pdb
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\MainWindow.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\App.g.cs
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern_MarkupCompile.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern_MarkupCompile.lref
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\MainWindow.baml
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern.g.resources
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern.Properties.Resources.resources
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern.csproj.GenerateResource.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern.exe
+C:\Users\rebec\Documents\GitHub\2.-term\exercises\Producer_Consumer_Pattern\Producer_Consumer_Pattern\obj\Debug\Producer_Consumer_Pattern.pdb
