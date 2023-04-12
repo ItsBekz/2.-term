@@ -1,0 +1,84 @@
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.csproj.AssemblyReference.cache
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf_MarkupCompile.cache
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf_MarkupCompile.lref
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.exe
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.deps.json
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.runtimeconfig.json
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.dll
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.pdb
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.g.resources
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.AssemblyInfoInputs.cache
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.AssemblyInfo.cs
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.csproj.CoreCompileInputs.cache
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.dll
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\refint\WpfGraf.dll
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.pdb
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.genruntimeconfig.cache
+C:\Users\jakup\source\repos\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\ref\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.exe
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.deps.json
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.runtimeconfig.json
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.pdb
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.csproj.AssemblyReference.cache
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf_MarkupCompile.cache
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf_MarkupCompile.lref
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.g.resources
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.AssemblyInfoInputs.cache
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.AssemblyInfo.cs
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.csproj.CoreCompileInputs.cache
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\refint\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.pdb
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.genruntimeconfig.cache
+C:\Users\jaha\Downloads\WpfGraf(Default)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\ref\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.exe
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.deps.json
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.runtimeconfig.json
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.pdb
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.csproj.AssemblyReference.cache
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf_MarkupCompile.cache
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf_MarkupCompile.lref
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.g.resources
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.AssemblyInfoInputs.cache
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.AssemblyInfo.cs
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.csproj.CoreCompileInputs.cache
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\refint\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.pdb
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.genruntimeconfig.cache
+C:\Users\jaha\Downloads\WpfGraf(Default, simpel)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\ref\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.exe
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.deps.json
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.runtimeconfig.json
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\bin\Debug\net6.0-windows\WpfGraf.pdb
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.csproj.AssemblyReference.cache
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf_MarkupCompile.cache
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf_MarkupCompile.lref
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.g.resources
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.AssemblyInfoInputs.cache
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.AssemblyInfo.cs
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.csproj.CoreCompileInputs.cache
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\refint\WpfGraf.dll
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.pdb
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\WpfGraf.genruntimeconfig.cache
+C:\Users\jaha\Downloads\WpfGraf(10 Firkanter flytter sig random)\WpfGraf\WpfGraf\obj\Debug\net6.0-windows\ref\WpfGraf.dll

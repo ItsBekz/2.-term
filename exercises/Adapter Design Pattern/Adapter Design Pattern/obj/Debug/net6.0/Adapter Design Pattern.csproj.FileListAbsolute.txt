@@ -1,0 +1,15 @@
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\bin\Debug\net6.0\Adapter Design Pattern.exe
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\bin\Debug\net6.0\Adapter Design Pattern.deps.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\bin\Debug\net6.0\Adapter Design Pattern.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\bin\Debug\net6.0\Adapter Design Pattern.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\bin\Debug\net6.0\Adapter Design Pattern.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\Adapter Design Pattern.csproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\Adapter Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\Adapter Design Pattern.AssemblyInfoInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\Adapter Design Pattern.AssemblyInfo.cs
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\Adapter Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\Adapter Design Pattern.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\refint\Adapter Design Pattern.dll
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\Adapter Design Pattern.pdb
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\Adapter Design Pattern.genruntimeconfig.cache
+C:\Users\Rebrcca\Documents\GitHub\2.-term\exercises\Adapter Design Pattern\Adapter Design Pattern\obj\Debug\net6.0\ref\Adapter Design Pattern.dll
