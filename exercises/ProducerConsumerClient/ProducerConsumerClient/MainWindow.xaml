@@ -1,0 +1,14 @@
+﻿<Window x:Class="ProducerConsumerClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProducerConsumerClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BtnSend" Content="Send Data" HorizontalAlignment="Left" Margin="167,148,0,0" VerticalAlignment="Top" Height="75" Width="132" Click="BtnSend_Click"/>
+        <TextBox x:Name="MyTextBox" HorizontalAlignment="Left" Margin="326,160,0,0" TextWrapping="Wrap" Text="Data to Queue" VerticalAlignment="Top" Width="199" Height="51" FontSize="20"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,58 @@
+﻿@model FarmMVC.Models.Farm
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                Weight
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @Model.id
+            </td>
+            <td>
+                @Model.name
+            </td>
+            <td></td>
+            <td></td>
+        </tr>
+        
+@foreach (var item in Model.animalList) {
+        <tr>
+            <td>
+                    @Html.DisplayFor(modelItem => item.animalId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.species)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.weight)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.animalId, species=item.species, weight=item.weight }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.animalId}) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.animalId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

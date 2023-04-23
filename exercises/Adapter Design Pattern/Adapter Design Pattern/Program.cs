@@ -9,25 +9,36 @@ namespace AdapterDesignPattern
         public static void Main(string[] args)
         {
             ITarget target =
-            new Adaptor(
-            new Adaptee());
+            new Adaptor(new Adaptee());
 
             String svar = target.Request();
             Console.WriteLine(svar);
-
-            BrugerMath bm = new BrugerMath(null);
+            Console.WriteLine();
+            
             double a, b;
+            
             Console.WriteLine("Give first value: ");
             a = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Give second value: ");
             b = Convert.ToDouble(Console.ReadLine());
             
-            double svar2 = bm.leagSammen(a, b);
-            Console.WriteLine("This is math: {0}", svar2);
+            Console.WriteLine("Would you like to use french math? y/n: ");
+            string svar2 = Console.ReadLine();
 
-            BrugerMath bm2 = new BrugerMath(new FrenchMath());
-            double svar3 = bm2.leagSammen(a, b);
-            Console.WriteLine("This is french math: {0}", svar3);
+            double result;
+            
+            if (svar2.ToLower() == "y")
+            {
+                BrugerMath bm2 = new BrugerMath(new FrenchMath());
+                result = bm2.leagSammen(a, b);
+                Console.WriteLine("This is french math: {0}", result);
+            }
+            else
+            {
+                BrugerMath bm = new BrugerMath(null);
+                result = bm.leagSammen(a, b);
+                Console.WriteLine("This is math: {0}", result);
+            }
 
         }
 
